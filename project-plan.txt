@@ -2,3 +2,5 @@ Project Plan
 - Study Microcontroller systematically
 - Make Air Mouse Controller. For prototyping Thompson M1 Controller
 - Make A Documentation using github
+- Archiving achievemnt in Linkedln
+- Simulating product design
